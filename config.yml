@@ -1,0 +1,4 @@
+- azure:
+    subscription_key: 'xxxxxxxxxxxxxxxxxxxxxxx'
+    text_endpoint: "https://westus2.api.cognitive.microsoft.com/"
+    text_key: "xxxxxxxxxxxxxxxxxxxxxxx"
