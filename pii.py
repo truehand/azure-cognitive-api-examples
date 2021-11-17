@@ -37,7 +37,9 @@ def get_pii(input_text, input_language):
     return response.json()
 
 text1 = "The patient's name is John Smith. He was born on 1 January 2021"
-text2 = "His mobile is 07777888999"
+text2 = "His mobile is 07777 888999"
 
-pii = get_pii(text2, 'en')
-print (pii)
+pii_analysis1 = get_pii(text1, 'en')
+print (pii_analysis1)
+pii_analysis2 = get_pii(text2, 'en')
+print (pii_analysis1)
