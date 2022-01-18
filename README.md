@@ -5,7 +5,8 @@ Create a config file of the following format:
 
 ``` yml
 azure: 
-    'subscription_key' : "XXXXXXXXXXXXXXXXX"
-    'text_endpoint' : "xxxxxxxxxxxxxxxxx"
+    'text_endpoint' : "xxxxx.api.cognitive.microsoft.com""
     'text_key' : "XXXXXXXXXXXXXXXXXXX"
+    'vision_endpoint': "https://xxxxx.cognitiveservices.azure.com"
+    'vision_key': "xxxxxxxxxxxxx"
 ```
