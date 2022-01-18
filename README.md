@@ -10,3 +10,9 @@ azure:
     'vision_endpoint': "https://xxxxx.cognitiveservices.azure.com"
     'vision_key': "xxxxxxxxxxxxx"
 ```
+
+install requirements by:
+
+```bash
+pip install -r requirements.txt
+```
