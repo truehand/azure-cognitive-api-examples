@@ -1,4 +1,0 @@
-- azure:
-    subscription_key: "xxxxxxxxxxxxxxxxxxxxxxxxx"
-    text_endpoint: "https://uksouth.api.cognitive.microsoft.com"
-    text_key: "xxxxxxxxxxxxxxxxxxxxxx"
